@@ -78,4 +78,4 @@ Because of this, the model should be treated as a forecasting support tool, not 
 ## Main Takeaway
 
 Past sales patterns contain useful forecasting signal, but they do not fully explain future sales.  
-A GRU model provided the best accuracy in this experiment, while simpler models remain useful as transparent baselines.# Time-Series
+A GRU model provided the best accuracy in this experiment, while simpler models remain useful as transparent baselines.
