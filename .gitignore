@@ -7,7 +7,7 @@
 # keep portfolio files only
 !README.md
 !time_series_sales_new_data.ipynb
-
+!requirements.txt
 # keep anonymized dataset
 !data/
 !data/daily_sales.csv
