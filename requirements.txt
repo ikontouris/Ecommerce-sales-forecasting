@@ -4,5 +4,5 @@ matplotlib
 scikit-learn
 statsmodels
 tensorflow
-openpyxl
 ipykernel
+seaborn
